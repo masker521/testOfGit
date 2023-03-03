@@ -5,5 +5,11 @@ qu woshi
 
 
 whs的git
+<<<<<<< HEAD
 
 这才是真的master修改的内容
+=======
+   
+
+master的修改内容
+>>>>>>> whs
